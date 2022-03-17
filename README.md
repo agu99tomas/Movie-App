@@ -1,6 +1,6 @@
 # Movie app
 Software para ver y buscar sinopsis de películas y los actores que participaron en ellas.  
-El mismo fue desarrollado en el curso:  
+Desarrollado en el curso:  
 [Flutter: Tu guía completa de desarrollo para IOS y Android](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/).
 
 
